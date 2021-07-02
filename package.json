@@ -1,0 +1,15 @@
+{
+  "name": "claimepicgame",
+  "version": "1.0.0",
+  "description": "Auto Claim free games",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krosnoz",
+  "license": "ISC",
+  "dependencies": {
+    "epicgames-client": "Revadike/node-epicgames-client#develop"
+  }
+}
