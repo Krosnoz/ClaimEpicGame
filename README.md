@@ -6,6 +6,6 @@ Claim [free games](https://www.epicgames.com/store/free-games) from the Epic Gam
 * [DeviceAuthGenerator](https://github.com/xMistt/DeviceAuthGenerator/releases)
 
 ## Developper
-0. Start DeviceAuthGenerator.exe and log into Epic Game Account, you should have a "device_auths.json" file created.
+0. Start DeviceAuthGenerator.exe at the root of this folder and log-in into Epic Game Account, you should have a "device_auths.json" file created.
 1. Run `npm install`
 2. Run `npm start`
