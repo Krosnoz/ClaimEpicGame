@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Auto Claim free games",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +11,7 @@
   "author": "Krosnoz",
   "license": "ISC",
   "dependencies": {
-    "epicgames-client": "Revadike/node-epicgames-client#develop"
+    "epicgames-client": "Revadike/node-epicgames-client#develop",
+    "pkg": "^5.3.0"
   }
 }
