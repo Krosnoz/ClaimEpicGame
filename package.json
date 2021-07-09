@@ -6,6 +6,7 @@
   "bin": "index.js",
   "scripts": {
     "start": "node index.js",
+    "compile": "pkg . --targets node14-win-x64",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Krosnoz",
