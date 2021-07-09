@@ -48,6 +48,6 @@ const Auths = require('./device_auths.json');
     await client.logout();
     console.log(`Logged ${client.account.name} out of Epic Games`);
 
-    process.exit(0);
+    //process.exit(0);
   }
 })();
